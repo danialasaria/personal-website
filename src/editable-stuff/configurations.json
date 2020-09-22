@@ -1,48 +1,54 @@
 {
   "backgroundType": "gradient",
   "plainBackgroundMode": "daylight",
-  "gradientColors": "#E73C7E, #23A6D5, #23D5AB, #893FA6",
-  "FirstName": "Ana",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Danial",
   "MiddleName": "",
-  "LastName": "Ashrafi",
-  "devDesc": "Passionate about changing the world with technology.",
+  "LastName": "Asaria",
+  "devDesc": "| Engineer | Programmer | Web Developer | Photographer | Athlete | Artist ",
   "icons": [
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/anaashrafi",
+      "url": "https://github.com/workflow7861",
       "style": "socialicons"
     },
     {
       "id": 1,
       "image": "fa-facebook",
-      "url": "https://www.facebook.com/anaaashrafi",
+      "url": "https://www.facebook.com/",
       "style": "socialicons"
     },
     {
       "id": 2,
       "image": "fa-instagram",
-      "url": "https://www.instagram.com/ana_ashhh/",
+      "url": "https://www.instagram.com/",
       "style": "socialicons"
     },
     {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/ana-ashrafi",
+      "url": "https://www.linkedin.com/in/danial-asaria/",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-twitter",
+      "url": "https://www.twitter.com/",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
-  "showInstaProfilePic": false,
+  "showInstaProfilePic": true,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "ana_ashhh",
+  "instaUsername": "hashirshoaeb",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Hello! My name is Ana and I am a Software Engineer from The University of Texas at Austin. I will be graduating with my Bachelor's degree in Electrical and Computer Engineering in May of 2021. The past two summers, I interned as a Software Engineer at Boeing and Dell Technologies, and I cannot wait for my next journey. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering!",
+  "aboutDescription": "I'm Danial",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "anaashrafi",
+  "gitHubUsername": "workflow7861",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 2,
+  "projectsLength": 4,
   "showNavigationbar": true,
   "showBlog": false
 }
