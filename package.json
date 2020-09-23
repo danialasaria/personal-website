@@ -1,21 +1,22 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://anaashrafi.com",
+  "homepage": "https://workflow7861.github.io/personal-website/",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Ana Ashrafi",
-    "email": "ana.a.ashrafi@gmail.com",
-    "url": "https://github.com/anaashrafi"
+    "name": "Danial Asaria",
+    "email": "Asaria.Danial@gmail.com",
+    "url": "https://github.com/workflow7861"
   },
   "dependencies": {
     "@popperjs/core": "^2.1.1",
     "axios": "^0.19.2",
-    "bootstrap": "^4.4.1",
+    "bootstrap": "^4.5.2",
     "gh-pages": "^2.2.0",
     "jquery": "^3.5.1",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.3.0",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
     "react-photo-gallery": "^8.0.0",
