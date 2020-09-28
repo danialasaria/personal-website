@@ -28,9 +28,9 @@ return (
                   <p className="lead">JavaScript
                   <ProgressBar now={87} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
-                  <p className="lead">C#
+                  {/*<p className="lead">C#
                   <ProgressBar now={80} style={{width:'490px', backgroundColor:'white'}}/>
-                  </p>
+                  </p>*/}
                   <p className="lead">C/C++
                   <ProgressBar now={70} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
