@@ -1,0 +1,54 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Danial",
+  "MiddleName": "",
+  "LastName": "Asaria",
+  "devDesc": "| Undergraduate Student | Programmer | Web Developer | FIDE Chess Master | Athlete ",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/workflow7861",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/",
+      "style": "socialicons"
+    },
+    {
+      "id": 3,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/danial-asaria/",
+      "style": "socialicons"
+    },
+    {
+      "id": 4,
+      "image": "fa-twitter",
+      "url": "https://www.twitter.com/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "hashirshoaeb",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "I'm Danial",
+  "projectHeading": "Recent Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "workflow7861",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 4,
+  "showNavigationbar": true,
+  "showBlog": false
+}
