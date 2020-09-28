@@ -22,9 +22,9 @@ return (
                 <div className="row">
                 <div className="col">
                 <br/>
-                  <p className="lead">Agile/Lean Methodologies
+                  {/*<p className="lead">Agile/Lean Methodologies
                   <ProgressBar now={90} style={{width:'490px', backgroundColor:'white'}}/>
-                  </p>
+                  </p> */}
                   <p className="lead">JavaScript
                   <ProgressBar now={87} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
