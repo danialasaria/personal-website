@@ -40,15 +40,15 @@ return (
               </div>
               <div className="col">
               <br/>
-                <p className="lead">Java
+                {/*<p className="lead">Java
                 <ProgressBar now={90} style={{width:'490px', backgroundColor:'white'}}/>
-                </p>
+                </p> /*}
                 <p className="lead">HTML/CSS
                 <ProgressBar now={85} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
-                <p className="lead">Test-Driven Development
+                {/*<p className="lead">Test-Driven Development
                   <ProgressBar now={80} style={{width:'490px', backgroundColor:'white'}}/>
-                  </p>
+                </p> */}
                 <p className="lead">SQL
                 <ProgressBar now={75} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>

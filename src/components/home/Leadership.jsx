@@ -1,13 +1,13 @@
 import React, { useState, useEffect, Profiler } from "react";
 import Carousel from 'react-bootstrap/Carousel'
-import Service from "../../editable-stuff/service.jpg"
+import Nationals2 from "../../editable-stuff/nationals2.jpeg"
 import Culture from "../../editable-stuff/culture.jpg"
 import Committee from "../../editable-stuff/committee.jpg"
-import Park from "../../editable-stuff/park.jpg"
-import Zilker from "../../editable-stuff/zilker.jpg"
-import Retreat from "../../editable-stuff/retreat.jpg"
-import Sec from "../../editable-stuff/sec.jpg"
-import Custodians from "../../editable-stuff/custodians.jpg"
+import Trophy from "../../editable-stuff/trophy.jpg"
+import Handshake from "../../editable-stuff/handshake.jpg"
+import Nationals from "../../editable-stuff/nationals.jpeg"
+import Americanopen from "../../editable-stuff/americanopen.jpeg"
+import Family from "../../editable-stuff/family.jpeg"
 
 const Leadership = () => {
     return (
@@ -15,7 +15,7 @@ const Leadership = () => {
           <div className="container container-fluid">
             <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
-                <h1 className="display-4 mb-3 text-center">Leadership</h1>
+                <h1 className="display-4 mb-3 text-center">Service Initiatives</h1>
                 {/* <p className="lead text-center" style={{fontSize:'22px'}}>
                     I empower people to acheive their goals. And I absolutely love it.
                 </p><br/><br/> */}
@@ -23,7 +23,7 @@ const Leadership = () => {
                 <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
                   <p className="lead text-left">
-                      Throughout my college career, I've been extremely grateful to have opportunities to lead my peers
+                      I have been fortunate to help my community in multiple ways here are a few.{/* I've been extremely grateful to have opportunities to lead my peers
                       and make an impact on the Austin community. In my role as the <b>Vice President of the 
                       Student Engineering Council</b>, I cultivated a culture of 
                       inclusivity, collaboration, and ambition through leading new-member recruitment and 
@@ -32,7 +32,7 @@ const Leadership = () => {
                       that contributed 28,664 meals to the Central Texas Food Bank and over $3,000 to the
                       SAFE Alliance in my position as the <b>Service Director of the Student Engineering Council</b>.
                       Outside of these roles, I worked to level the playing field in STEM by mentoring and teaching children
-                      of lower socioeconomic status through my role as a <b>Code Orange Mentor</b>.
+                    of lower socioeconomic status through my role as a <b>Code Orange Mentor</b>. */}
                  </p>  
               </div>
               
@@ -43,8 +43,8 @@ const Leadership = () => {
                 {/* <div className="col d-none d-lg-inline align-self-center"> */}
                   <img
                     className="rounded"
-                    src={Culture}
-                    alt="culture"
+                    src={Family}
+                    alt="Family"
                     width="615"
                     height="450"
                   /> 
@@ -60,8 +60,8 @@ const Leadership = () => {
                 <Carousel.Item>
                   <img
                     className="rounded"
-                    src={Service}
-                    alt="service"
+                    src={Nationals2}
+                    alt="Nationals2"
                     width="615"
                     height="450"
                   /> 
@@ -88,7 +88,7 @@ const Leadership = () => {
                 <Carousel.Item>
                   <img
                     className="rounded"
-                    src={Sec}
+                    src={Americanopen}
                     alt="SEC"
                     width="615"
                     height="450"
@@ -97,13 +97,13 @@ const Leadership = () => {
                 <Carousel.Item>
                   <img
                     className="rounded"
-                    src={Zilker}
-                    alt="zilker"
+                    src={Handshake}
+                    alt="Handshake"
                     width="615"
                     height="450"
                   /> 
                   </Carousel.Item>
-                  <Carousel.Item>
+                 {/* <Carousel.Item>
                   <img
                     className="rounded"
                     src={Custodians}
@@ -111,7 +111,7 @@ const Leadership = () => {
                     width="615"
                     height="450"
                   /> 
-                  </Carousel.Item>
+                 </Carousel.Item> 
                 <Carousel.Item>
                   <img
                     className="rounded"
@@ -120,11 +120,11 @@ const Leadership = () => {
                     width="615"
                     height="450"
                   /> 
-                  </Carousel.Item>
+                  </Carousel.Item>*/}
                   <Carousel.Item>
                   <img
                     className="rounded"
-                    src={Park}
+                    src={Trophy}
                     alt="volunteer"
                     width="615"
                     height="450"
@@ -133,8 +133,8 @@ const Leadership = () => {
                   <Carousel.Item>
                   <img
                     className="rounded"
-                    src={Retreat}
-                    alt="family"
+                    src={Nationals}
+                    alt="Nationals"
                     width="615"
                     height="450"
                   /> 

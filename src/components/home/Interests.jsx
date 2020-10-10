@@ -47,20 +47,17 @@ const Interests = () => {
                 </p>
                 </div>
                 <div className="col text-center">
-                <p className="lead text-center" style={{fontSize:'28px'}}>Soccer</p>
+                <p className="lead text-center" style={{fontSize:'28px'}}>Tennis</p>
                 <img src="https://img.icons8.com/nolan/128/football2.png"/>
                 <p className="lead text-center">
-                  I first picked up a soccer ball when I was 4 years old and have played the beautiful game since. 
-                  I played competitively for FC Dallas, while also playing for my high school soccer team. In college, I play intramural soccer
-                  and frequently look for pick-up games to play!
+                  I was always an energetic kid sporadically trying different sports throughout my childhood. The summer before highschool I began to play tennis and fell in love with it instantly. I was on the varsity team all 4 yers of highschool.
                 </p>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center" style={{fontSize:'28px'}}>Food</p>
                 <img src="https://img.icons8.com/nolan/128/meal.png"/>
                 <p className="lead text-center">
-                  I am a big foodie! Growing up with a mom who cooks the best Persian food, I fell in love with food at an early age. I'm currently working on a cookbook of all my mom's
-                  original recipes and am learning more about cooking too. I love trying new restaurants and recipes!
+                  I am a big foodie! Growing up with a mom who cooks the best Pakistani food, I fell in love with food at an early age. I love trying new restaurants and recipes!
                 </p>
                 </div>
             </div>
