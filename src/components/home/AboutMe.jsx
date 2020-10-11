@@ -1,6 +1,6 @@
 import React, { useState, useEffect, Profiler } from "react";
 import axios from "axios";
-import Pdf from "../../editable-stuff/Ana Ashrafi - Resume 2020.pdf";
+import Pdf from "../../editable-stuff/Resume.pdf";
 import Profile from "../../editable-stuff/Profile.jpg"
 import {Helmet} from "react-helmet";
 
@@ -68,7 +68,7 @@ const AboutMe = () => {
               <p className="lead text-center">
                 <a 
                   className="btn btn-outline-dark btn-lg"
-                  href={Pdf}
+                  href="https://docs.google.com/document/d/1-znAVKLoCm7h2XJNB2wd2wu58PR0W-BeTB_8X7IiXxU/edit?usp=sharing"
                   target="_blank"
                   rel="noreferrer noopener"
                   role="button"

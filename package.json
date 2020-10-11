@@ -1,13 +1,13 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://workflow7861.github.io/personal-website/",
+  "homepage": "https://danialasaria.github.io/personal-website/",
   "version": "0.1.0",
   "private": true,
   "author": {
     "name": "Danial Asaria",
     "email": "asaria.danial@gmail.com",
-    "url": "https://github.com/workflow7861"
+    "url": "https://github.com/danialasaria"
   },
   "dependencies": {
     "@popperjs/core": "^2.1.1",

@@ -10,45 +10,33 @@
     {
       "id": 0,
       "image": "fa-github",
-      "url": "https://github.com/workflow7861",
+      "url": "https://github.com/danialasaria",
       "style": "socialicons"
     },
     {
       "id": 1,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/",
-      "style": "socialicons"
-    },
-    {
-      "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/",
-      "style": "socialicons"
-    },
-    {
-      "id": 3,
       "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/danial-asaria/",
       "style": "socialicons"
     },
     {
-      "id": 4,
+      "id": 2,
       "image": "fa-twitter",
       "url": "https://www.twitter.com/",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
-  "showInstaProfilePic": true,
+  "showInstaProfilePic": false,
   "instaLink": "https://www.instagram.com/",
-  "instaUsername": "hashirshoaeb",
+  "instaUsername": "notcoke361",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "I'm Danial",
+  "aboutDescription": "Hello! My name is Danial Asaria and I am an undergraduate student at the University of Southern California majoring in computer science and business adminstration.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "workflow7861",
+  "gitHubUsername": "danialasaria",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
-  "projectsLength": 4,
+  "projectsLength": 2,
   "showNavigationbar": true,
   "showBlog": false
 }

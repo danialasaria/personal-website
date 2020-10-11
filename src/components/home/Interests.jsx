@@ -28,38 +28,38 @@ const Interests = () => {
               Outside of software engineering, I love to meditate, read, and play soccer!
             </p><br/> */}
             <div className="row" style={divStyle}>
-                <div className="col text-center" >
+               {/* <div className="col text-center" >
                 <p className="lead text-center" style={{fontSize:'28px'}}>Meditation</p>
                 <img src="https://img.icons8.com/nolan/128/light.png"/>
                 <p className="lead text-center">
                   Every morning, I begin my day with <a href="https://www.headspace.com/" target="_blank">Headspace</a>.
                   I started meditating about one year ago and have learned how to be more focused, mindful, and relaxed. 
                   So far, I've meditated for a total of 1,385 minutes, and I am continuing to grow this number every day!
-                </p>
-                </div>
+                </p> 
+                </div> */}
                 <div className="col text-center">
                 <p className="lead text-center" style={{fontSize:'28px'}}>Reading</p>
                 <img src="https://img.icons8.com/nolan/128/saving-book.png"/>
                 <p className="lead text-center">
-                  I had never been much of a reader until this year. When quarantine started, I thought it'd be a 
-                  great opportunity to get into reading and find books I really enjoy. I've read 7 books
-                  since March and can't wait to read more. Check out what I've been reading on <a href="https://www.goodreads.com/ana_ashrafi" target="_blank">Goodreads</a>!
+                  After quarantine began I thought with all the spare time stuck at home this would be a great opprtunity to rekindle my passion for reading. During highschool I was always frustrated because a couple of months after reading a book I always sensed my memory of even the most captivating story lines slowly fading away. 
+                  Since March I have begun my journey to combat the retention gods now always reading with a pen and sticky notes in hand mindful of detailing opinions, connections to previous literature, and vocab words I haven't encountered before. Check out what I've been reading on <a href="https://www.goodreads.com/user/show/68741765-danial" target="_blank">Goodreads</a>! One of my favorite quotes: "Reading is a means of thinking with another person's mind; it forces you to stretch your own."-Charles Scribner, JR.
                 </p>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center" style={{fontSize:'28px'}}>Tennis</p>
-                <img src="https://img.icons8.com/nolan/128/football2.png"/>
+                <img src="https://img.icons8.com/ios-filled/100/000000/tennis-2.png"/>
                 <p className="lead text-center">
-                  I was always an energetic kid sporadically trying different sports throughout my childhood. The summer before highschool I began to play tennis and fell in love with it instantly. I was on the varsity team all 4 yers of highschool.
+                 The summer before highschool I knew I wanted to avoid PE at all costs and after playing semicompetitive ping pong for a couple years I thought tennis wouldn't be too different... Needless to say I wasn't selected to be on the team. Luckily after begging the coach to let me on the team he agreed to hold a second tryout on the condition that I practice with the girls team (as the only male) everyday after school for the rest of the semester. As I made a fool of myself in front of the entire school for 5 months, I slowly fell in love with the game and eventually worked my way onto the varsity team where I resided for all 4 years of highschool.
                 </p>
                 </div>
+                {/*
                 <div className="col text-center">
                 <p className="lead text-center" style={{fontSize:'28px'}}>Food</p>
                 <img src="https://img.icons8.com/nolan/128/meal.png"/>
                 <p className="lead text-center">
                   I am a big foodie! Growing up with a mom who cooks the best Pakistani food, I fell in love with food at an early age. I love trying new restaurants and recipes!
                 </p>
-                </div>
+                </div> */}
             </div>
         </div>
         </div>

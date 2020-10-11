@@ -16,7 +16,7 @@ return (
             {/* <h1 className="display-4 pb-5">Experience</h1> */}
             <div className="row" style={divStyle}>
                 <div className="col text-center" >
-                    <img
+                    {/*<img
                         // className="border border-secondary rounded-circle"
                         src={Dell}
                         alt="dell technologies logo"
@@ -30,7 +30,7 @@ return (
                         <br/>
                         June - July 2020
                     </p>
-                    {/* <h3>Dell Technologies</h3> */}
+                    {/* <h3>Dell Technologies</h3> 
                 </div>
                 <div className="col text-center">
                     <img

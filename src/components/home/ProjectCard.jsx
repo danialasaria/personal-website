@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useCallback } from "react";
 import axios from "axios";
+import Omlet from "../../editable-stuff/omlet.jpg"
 
 const ProjectCard = ({ value }) => {
   const [updated_at, setUpdatedAt] = useState("0 mints");
@@ -64,6 +65,12 @@ const ProjectCard = ({ value }) => {
             <i className="fab fa-github" /> Repo
           </a>
           <hr />
+          <img className="rounded"
+                    src={Omlet}
+                    alt="Nationals2"
+                    width="480"
+                    height="250"
+                   />
           <Language value={languages_url}></Language>
           <p className="card-text">
             <span className="text-dark card-link mr-4">
