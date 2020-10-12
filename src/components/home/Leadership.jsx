@@ -15,7 +15,7 @@ const Leadership = () => {
           <div className="container container-fluid">
             <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
-                <h1 className="display-4 mb-3 text-center">Service Initiatives</h1>
+                <h1 className="display-4 mb-3 text-center">Chess</h1>
                 {/* <p className="lead text-center" style={{fontSize:'22px'}}>
                     I empower people to acheive their goals. And I absolutely love it.
                 </p><br/><br/> */}
@@ -23,7 +23,16 @@ const Leadership = () => {
                 <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
                   <p className="lead text-left">
-                      I have been fortunate to help my community in multiple ways here are a few.{/* I've been extremely grateful to have opportunities to lead my peers
+                  I began to play chess at 7 years old and after my coach began our first class by saying, "Every champion was once a beginner" 
+                  my youthful imagination ran wild and I was hooked. My early development in chess proved to 
+                  be nontraditional where my structured classes provided by my school were supplemented by the
+                   aggressive, unconventional playing styles I learned from spending my weekends sneaking games in with 
+                   hustlers at my local chess park. Yet learning these vastly different approaches to the game allowed me to become a more complete player, and 
+                   after 6 weeks of practice, I could beat every kid in my class and almost defeated my coach. At age 11 I achieved the title of Master,
+                    and since then have become a 5-time National Champion and am currently the #1 18-year-old on the west coast of the United States. In addition, 
+                    I have defeated numerous world-renowned Grandmasters and played some of the best in the world including world champion Magnus Carlsen and Grandmaster Hikaru 
+                    Nakamura. My peak United States Chess Federation and International Chess Federation ratings are 2420 and 2340 respectively, awarding me the titles of 
+                    National Master and FIDE Master (top .43% in the world).{/* I've been extremely grateful to have opportunities to lead my peers
                       and make an impact on the Austin community. In my role as the <b>Vice President of the 
                       Student Engineering Council</b>, I cultivated a culture of 
                       inclusivity, collaboration, and ambition through leading new-member recruitment and 

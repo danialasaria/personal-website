@@ -496,3 +496,7 @@
 .bg-gradient {
   background: linear-gradient(rgba(245, 245, 245), rgba(245, 245, 245, 0));
 }
+
+.links {
+  color: black;
+}

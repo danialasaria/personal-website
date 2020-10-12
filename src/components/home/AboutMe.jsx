@@ -58,7 +58,7 @@ const AboutMe = () => {
                 src={Profile}
                 alt="profilepicture"
                 width="375"
-                height="375"
+                height="360"
               />
             </div>
             <div className="col d-lg-inline align-self-center">

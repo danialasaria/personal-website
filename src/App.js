@@ -24,11 +24,11 @@ const Home = () => {
     <Fragment>
       <MainBody />
       <AboutMe />
-      <Experience />
       <Project />
       <Leadership />
       <Skills />
       <Interests />
+      <Experience />
     </Fragment>
   );
 };
