@@ -42,14 +42,21 @@ const Interests = () => {
                 <img src="https://img.icons8.com/nolan/128/saving-book.png"/>
                 <p className="lead text-center">
                   After quarantine began I thought with all the spare time stuck at home this would be a great opprtunity to rekindle my passion for reading. During highschool I was always frustrated because a couple of months after reading a book I always sensed my memory of even the most captivating story lines slowly fading away. 
-                  Since March I have begun my journey to combat the retention gods now always reading with a pen and sticky notes in hand mindful of detailing opinions, connections to previous literature, and vocab words I haven't encountered before. Check out what I've been reading on <a href="https://www.goodreads.com/user/show/68741765-danial" target="_blank">Goodreads</a>! One of my favorite quotes: "Reading is a means of thinking with another person's mind; it forces you to stretch your own."-Charles Scribner, JR.
+                  Since March I have begun my journey to combat the retention gods now always reading with a pen and sticky notes in hand mindful of detailing opinions, connections to previous literature, and vocab words I haven't encountered before. Check out what I've been reading on <a href="https://www.goodreads.com/user/show/68741765-danial" target="_blank">Goodreads</a>! One of my favorite quotes: "Reading a good book in silence is like eating chocolate for the rest of your life and never getting fat." -Becca Fitzpatrick
                 </p>
                 </div>
                 <div className="col text-center">
                 <p className="lead text-center" style={{fontSize:'28px'}}>Tennis</p>
                 <img src="https://img.icons8.com/ios-filled/100/000000/tennis-2.png"/>
                 <p className="lead text-center">
-                 The summer before highschool I knew I wanted to avoid PE at all costs and after playing semicompetitive ping pong for a couple years I thought tennis wouldn't be too different... Needless to say I wasn't selected to be on the team. Luckily after begging the coach to let me on the team he agreed to hold a second tryout on the condition that I practice with the girls team (as the only male) everyday after school for the rest of the semester. As I made a fool of myself in front of the entire school for 5 months, I slowly fell in love with the game and eventually worked my way onto the varsity team where I resided for all 4 years of highschool.
+                 The summer before highschool I knew I wanted to avoid PE at all costs and after playing semicompetitive ping pong for a couple years I thought tennis wouldn't be too different... Needless to say I wasn't selected to be on the team. Luckily after begging the coach to let me on the team he agreed to hold a second tryout on the condition that I practice with the girls team (as the only male) everyday after school for the rest of the semester. As I made a fool of myself in front of the entire school for 5 months, I slowly fell in love with the game and eventually worked my way onto the varsity team where I resided for all 4 years of highschool.         
+                </p>
+                </div>
+                <div className="col text-center">
+                <p className="lead text-center" style={{fontSize:'28px'}}>Community Service</p>
+                <img src="https://img.icons8.com/ios-filled/100/000000/tennis-2.png"/>
+                <p className="lead text-center">
+                 The summer before highschool I knew I wanted to avoid PE at all costs and after playing semicompetitive ping pong for a couple years I thought tennis wouldn't be too different... Needless to say I wasn't selected to be on the team. Luckily after begging the coach to let me on the team he agreed to hold a second tryout on the condition that I practice with the girls team (as the only male) everyday after school for the rest of the semester. As I made a fool of myself in front of the entire school for 5 months, I slowly fell in love with the game and eventually worked my way onto the varsity team where I resided for all 4 years of highschool.         
                 </p>
                 </div>
                 {/*

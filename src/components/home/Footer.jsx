@@ -28,7 +28,7 @@ import {
     <div className="container container-fluid">
           <div className="d-inline align-self-center">
           <h2 className="display-4 pb-3 text-center">Get In Touch</h2>
-          <p className="lead text-center" style={{fontSize:'22px'}}>I'm currently looking for Software Engineering internship opportunities! If you know of 
+          <p className="lead text-center" style={{fontSize:'22px'}}>I'm currently looking for technology/finance internship opportunities! If you know of 
             any positions available, have any questions, or just want to say hello, please feel free to email me at  
             <a href="mailto:asaria.danial@gmail.com">{" "}
                asaria.danial@gmail.com

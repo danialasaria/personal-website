@@ -1,13 +1,13 @@
 import React, { useState, useEffect, Profiler } from "react";
 import Carousel from 'react-bootstrap/Carousel'
-import Nationals2 from "../../editable-stuff/nationals2.jpeg"
-import Culture from "../../editable-stuff/culture.jpg"
-import Committee from "../../editable-stuff/committee.jpg"
-import Trophy from "../../editable-stuff/trophy.jpg"
+import Blue from "../../editable-stuff/trophy.jpg"
 import Handshake from "../../editable-stuff/handshake.jpg"
 import Nationals from "../../editable-stuff/nationals.jpeg"
 import Americanopen from "../../editable-stuff/americanopen.jpeg"
 import Family from "../../editable-stuff/family.jpeg"
+import Gold from "../../editable-stuff/gold.jpg"
+import Red from "../../editable-stuff/red.jpg"
+
 
 const Leadership = () => {
     return (
@@ -30,7 +30,7 @@ const Leadership = () => {
                    hustlers at my local chess park. Yet learning these vastly different approaches to the game allowed me to become a more complete player, and 
                    after 6 weeks of practice, I could beat every kid in my class and almost defeated my coach. At age 11 I achieved the title of Master,
                     and since then have become a 5-time National Champion and am currently the #1 18-year-old on the west coast of the United States. In addition, 
-                    I have defeated numerous world-renowned Grandmasters and played some of the best in the world including world champion Magnus Carlsen and Grandmaster Hikaru 
+                    I have defeated numerous world-renowned Grandmasters and played some of the best in the world including World Champion Viswanathan Anand and Grandmaster Hikaru 
                     Nakamura. My peak United States Chess Federation and International Chess Federation ratings are 2420 and 2340 respectively, awarding me the titles of 
                     National Master and FIDE Master (top .43% in the world).{/* I've been extremely grateful to have opportunities to lead my peers
                       and make an impact on the Austin community. In my role as the <b>Vice President of the 
@@ -52,10 +52,10 @@ const Leadership = () => {
                 {/* <div className="col d-none d-lg-inline align-self-center"> */}
                   <img
                     className="rounded"
-                    src={Family}
+                    src={Handshake}
                     alt="Family"
-                    width="615"
-                    height="450"
+                    width="520"
+                    height="390"
                   /> 
                   {/* <Carousel.Caption>
                     <h2>Student Engineering Council Vice President</h2>
@@ -67,12 +67,12 @@ const Leadership = () => {
                 <div className="row"> 
                 <div className="col d-none d-lg-inline align-self-center"> */}
                 <Carousel.Item>
-                  <img
+                <img
                     className="rounded"
-                    src={Nationals2}
-                    alt="Nationals2"
-                    width="615"
-                    height="450"
+                    src={Gold}
+                    alt="Gold"
+                    width="520"
+                    height="390"
                   /> 
                   {/* <Carousel.Caption>
                 <h2>Student Engineering Council Service Director</h2>
@@ -95,48 +95,30 @@ const Leadership = () => {
                 {/* </div>
                 </div> */}
                 <Carousel.Item>
-                  <img
+                <img
                     className="rounded"
-                    src={Americanopen}
-                    alt="SEC"
-                    width="615"
-                    height="450"
+                    src={Blue}
+                    alt="Blue"
+                    width="520"
+                    height="390"
                   /> 
                   </Carousel.Item>
-                <Carousel.Item>
-                  <img
+                  <Carousel.Item>
+                <img
                     className="rounded"
-                    src={Handshake}
-                    alt="Handshake"
-                    width="615"
-                    height="450"
+                    src={Red}
+                    alt="Red"
+                    width="520"
+                    height="390"
                   /> 
                   </Carousel.Item>
-                 {/* <Carousel.Item>
-                  <img
-                    className="rounded"
-                    src={Custodians}
-                    alt="custodialappreciation"
-                    width="615"
-                    height="450"
-                  /> 
-                 </Carousel.Item> 
-                <Carousel.Item>
-                  <img
-                    className="rounded"
-                    src={Committee}
-                    alt="committee"
-                    width="615"
-                    height="450"
-                  /> 
-                  </Carousel.Item>*/}
                   <Carousel.Item>
                   <img
                     className="rounded"
-                    src={Trophy}
-                    alt="volunteer"
-                    width="615"
-                    height="450"
+                    src={Americanopen}
+                    alt="Americanopen"
+                    width="520"
+                    height="390"
                   /> 
                   </Carousel.Item>
                   <Carousel.Item>
@@ -144,8 +126,8 @@ const Leadership = () => {
                     className="rounded"
                     src={Nationals}
                     alt="Nationals"
-                    width="615"
-                    height="450"
+                    width="520"
+                    height="390"
                   /> 
                   </Carousel.Item>
                 </Carousel>

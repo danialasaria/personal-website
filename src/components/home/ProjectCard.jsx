@@ -67,7 +67,6 @@ const ProjectCard = ({ value }) => {
           <hr />
           <img className="rounded"
                     src={Omlet}
-                    alt="Nationals2"
                     width="480"
                     height="250"
                    />
