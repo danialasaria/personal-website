@@ -35,7 +35,7 @@ return (
                   <ProgressBar now={70} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
                   <p className="lead">Python
-                  <ProgressBar now={60} style={{width:'490px', backgroundColor:'white'}}/>
+                  <ProgressBar now={35} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
               </div>
               <div className="col">
@@ -52,7 +52,7 @@ return (
                 <p className="lead">SQL
                 <ProgressBar now={35} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
-                <p className="lead">React
+                <p className="lead">React JS
                 <ProgressBar now={50} style={{width:'490px', backgroundColor:'white'}}/>
                 </p>
               </div>
