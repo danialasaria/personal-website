@@ -4,7 +4,6 @@ import Blue from "../../editable-stuff/trophy.jpg"
 import Handshake from "../../editable-stuff/handshake.jpg"
 import Nationals from "../../editable-stuff/Nationals.jpg"
 import Americanopen from "../../editable-stuff/americanopen.jpeg"
-import Family from "../../editable-stuff/family.jpeg"
 import Gold from "../../editable-stuff/gold.jpg"
 import Red from "../../editable-stuff/red.jpg"
 import DanialPrize from "../../editable-stuff/DanialPrize.jpg"
@@ -17,9 +16,6 @@ const Leadership = () => {
             <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
                 <h1 className="display-4 mb-3 text-center">Chess</h1>
-                {/* <p className="lead text-center" style={{fontSize:'22px'}}>
-                    I empower people to acheive their goals. And I absolutely love it.
-                </p><br/><br/> */}
                 <br/>
                 <div className="row"> 
                 <div className="col d-lg-inline align-self-center">
@@ -34,15 +30,7 @@ const Leadership = () => {
                     I have defeated numerous world-renowned Grandmasters and played some of the best in the world including World Champion Viswanathan Anand and Grandmaster Hikaru 
                     Nakamura. My peak United States Chess Federation and International Chess Federation ratings are 2420 and 2340 respectively, awarding me the titles of 
                     National Master and FIDE Master (top .43% in the world Inspired to share this passion I created the Asaria School of Chess where I teach students ages 5-80 from across the US, UK, and Asia.{/* I've been extremely grateful to have opportunities to lead my peers
-                      and make an impact on the Austin community. In my role as the <b>Vice President of the 
-                      Student Engineering Council</b>, I cultivated a culture of 
-                      inclusivity, collaboration, and ambition through leading new-member recruitment and 
-                      community building events.
-                      Prior to that position, I led service intiatives
-                      that contributed 28,664 meals to the Central Texas Food Bank and over $3,000 to the
-                      SAFE Alliance in my position as the <b>Service Director of the Student Engineering Council</b>.
-                      Outside of these roles, I worked to level the playing field in STEM by mentoring and teaching children
-                    of lower socioeconomic status through my role as a <b>Code Orange Mentor</b>. */}
+                       */}
                  </p>  
               </div>
               
@@ -54,7 +42,7 @@ const Leadership = () => {
                   <img
                     className="rounded"
                     src={Handshake}
-                    alt="Family"
+                    alt="Handshake"
                     width="520"
                     height="390"
                   /> 
@@ -76,25 +64,10 @@ const Leadership = () => {
                     height="390"
                   /> 
                   {/* <Carousel.Caption>
-                <h2>Student Engineering Council Service Director</h2>
+                <h2>Student Engineering </h2>
                 <h5>Promoted student involvement in the community through volunteering and philanthropy.</h5>
                 </Carousel.Caption> */}
                   </Carousel.Item>
-                {/* </div>
-                </div> */}
-                {/* <div className="row"> 
-                <div className="col d-none d-lg-inline align-self-center"> */}
-                {/* <Carousel.Item>
-                  <img
-                    className="rounded"
-                    src={Danial}
-                    alt="codeorange"
-                    width="300"
-                    height="475"
-                  /> 
-                  </Carousel.Item> */}
-                {/* </div>
-                </div> */}
                 <Carousel.Item>
                 <img
                     className="rounded"

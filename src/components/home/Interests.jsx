@@ -59,14 +59,6 @@ const Interests = () => {
                   I have found service to be the most rewarding and joyful passion in my life. Whether it is through the refugee chess camps and community tournaments I annualy organize, my music tutoring business for underpriveled youth, to my work as a Santa Monica Youth Volunteer assiting at my local communtiy center, I always learn the most when I am helping someone else. “We rise by lifting others” -Robert Ingersoll 
                 </p>
                 </div>
-                {/*
-                <div className="col text-center">
-                <p className="lead text-center" style={{fontSize:'28px'}}>Food</p>
-                <img src="https://img.icons8.com/nolan/128/meal.png"/>
-                <p className="lead text-center">
-                  I am a big foodie! Growing up with a mom who cooks the best Pakistani food, I fell in love with food at an early age. I love trying new restaurants and recipes!
-                </p>
-                </div> */}
             </div>
         </div>
         </div>
