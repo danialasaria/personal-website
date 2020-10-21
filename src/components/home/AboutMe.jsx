@@ -68,7 +68,7 @@ const AboutMe = () => {
               <p className="lead text-center">
                 <a 
                   className="btn btn-outline-dark btn-lg"
-                  href="https://docs.google.com/document/d/1-znAVKLoCm7h2XJNB2wd2wu58PR0W-BeTB_8X7IiXxU/edit?usp=sharing"
+                  /*href="https://docs.google.com/document/d/1-znAVKLoCm7h2XJNB2wd2wu58PR0W-BeTB_8X7IiXxU/edit?usp=sharing"*/
                   target="_blank"
                   rel="noreferrer noopener"
                   role="button"

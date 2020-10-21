@@ -33,7 +33,7 @@ Chess Pro Reveals How the Game Can Improve Your Focus, Problem-Solving, and More
 <a href="https://www.surfsantamonica.com/ssm_site/the_lookout/news/News-2016/January-2016/01_26_2016_Santa_Monica_Student_Is_National_Chess_Champ.html?fbclid=IwAR22tsooqLagJrL7nwgRrKD3okvvV6gJkpxW-bJvN8eIOk8BoBSKWSzaDZ8" className="links">Santa Monica Student Is National Chess Champion [Santa Monica Lookout- January 26, 2016]</a>
 <br/><br/>
 <a href="http://www.chessdom.com/national-k-12-grade-championships-2015-grade-8/?fbclid=IwAR10LiKtWSjVEqPaoo9jLJrJAQkBnq7_XcAGgSZpA7jvFYsC5jHS52phRyg" className="links">National K-12 Grade Championships 2015 Grade 8 Champion [Chessdom- December 21, 2015]</a> 
-<br></br>
+<br/>< br/>
 <a href="https://ismailimail.blog/2012/05/21/danial-asaria-won-co-championship-3rd-on-tiebreaks-and-scholarship-award-in-2012-national-elementary-k-6-chess-championship/?fbclid=IwAR0NOoxFZ53U81T_1F1ztRdhTQI2N0lEN_45_81zapjO--f1LrRJkb3yXDM/" className="links">Danial Asaria won Co-Championship and scholarship award in 2012 National Elementary (K-6) Chess Championship [IsmailiMail- May 21, 2012]</a>
 <br/><br/>
 <a href="https://ismailimail.blog/2011/03/24/danial-asaria-won-first-place-in-southern-california-super-states-2011-chess-championship/?fbclid=IwAR1ZgVKlzUjJCS_KAerx8jXFY2-r374OSy6GvMdqn_Hat6TSJgqntrf8d50/" className="links">Danial Asaria won First Place in Southern California Super States 2011 Chess Championship [IsmailiMail- March 24, 2011]</a>
