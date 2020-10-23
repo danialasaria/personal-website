@@ -8,6 +8,8 @@ import Gold from "../../editable-stuff/gold.jpg"
 import Red from "../../editable-stuff/red.jpg"
 import DanialPrize from "../../editable-stuff/DanialPrize.jpg"
 import Polgar from "../../editable-stuff/Polgar.jpg"
+import West from "../../editable-stuff/WestChessTournament.JPEG"
+
 
 const Leadership = () => {
     return (
@@ -23,7 +25,7 @@ const Leadership = () => {
                   I began to play chess at 7 years old and after my coach began our first class by saying, "Every champion was once a beginner" 
                   my youthful imagination ran wild and I was hooked. My early development in chess proved to 
                   be nontraditional where my structured classes provided by my school were supplemented by the
-                   aggressive, unconventional playing styles I learned from spending my weekends sneaking games in with 
+                  aggressive, unconventional playing styles I learned from spending my weekends sneaking games in with 
                    hustlers at my local chess park. Yet learning these vastly different approaches to the game allowed me to become a more complete player, and 
                    after 6 weeks of practice, I could beat every kid in my class and almost defeated my coach. At age 11 I achieved the title of Master,
                     and since then have become a 5-time National Champion and am currently the #1 18-year-old on the west coast of the United States. In addition, 
@@ -100,6 +102,15 @@ const Leadership = () => {
                     className="rounded"
                     src={Polgar}
                     alt="Polgar"
+                    width="520"
+                    height="390"
+                  /> 
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={West}
+                    alt="West"
                     width="520"
                     height="390"
                   /> 
