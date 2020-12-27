@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/personal-website/static/css/main.a9ec6b64.chunk.css",
-    "main.js": "/personal-website/static/js/main.5dce7b1a.chunk.js",
-    "main.js.map": "/personal-website/static/js/main.5dce7b1a.chunk.js.map",
+    "main.js": "/personal-website/static/js/main.b083eab5.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.b083eab5.chunk.js.map",
     "runtime-main.js": "/personal-website/static/js/runtime-main.fa74e1c8.js",
     "runtime-main.js.map": "/personal-website/static/js/runtime-main.fa74e1c8.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/personal-website/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.808dcc96.chunk.js": "/personal-website/static/js/2.808dcc96.chunk.js",
-    "static/js/2.808dcc96.chunk.js.map": "/personal-website/static/js/2.808dcc96.chunk.js.map",
+    "static/js/2.20758076.chunk.js": "/personal-website/static/js/2.20758076.chunk.js",
+    "static/js/2.20758076.chunk.js.map": "/personal-website/static/js/2.20758076.chunk.js.map",
     "index.html": "/personal-website/index.html",
-    "precache-manifest.7c7f75f7c56e7ab249211daea3e64b31.js": "/personal-website/precache-manifest.7c7f75f7c56e7ab249211daea3e64b31.js",
+    "precache-manifest.cf9beb9d290719b607097d30d264947c.js": "/personal-website/precache-manifest.cf9beb9d290719b607097d30d264947c.js",
     "service-worker.js": "/personal-website/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/personal-website/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.a9ec6b64.chunk.css.map": "/personal-website/static/css/main.a9ec6b64.chunk.css.map",
-    "static/js/2.808dcc96.chunk.js.LICENSE.txt": "/personal-website/static/js/2.808dcc96.chunk.js.LICENSE.txt",
+    "static/js/2.20758076.chunk.js.LICENSE.txt": "/personal-website/static/js/2.20758076.chunk.js.LICENSE.txt",
     "static/media/DanialPrize.jpg": "/personal-website/static/media/DanialPrize.e5843a5d.jpg",
+    "static/media/IM.jpeg": "/personal-website/static/media/IM.4e6b234b.jpeg",
     "static/media/Nationals.jpg": "/personal-website/static/media/Nationals.2bc3c6bf.jpg",
     "static/media/Polgar.jpg": "/personal-website/static/media/Polgar.5e1a3ce1.jpg",
     "static/media/Profile.jpg": "/personal-website/static/media/Profile.5c4bd275.jpg",
@@ -28,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.fa74e1c8.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.808dcc96.chunk.js",
+    "static/js/2.20758076.chunk.js",
     "static/css/main.a9ec6b64.chunk.css",
-    "static/js/main.5dce7b1a.chunk.js"
+    "static/js/main.b083eab5.chunk.js"
   ]
 }
