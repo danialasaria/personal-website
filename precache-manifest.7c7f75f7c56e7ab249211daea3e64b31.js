@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f71258d7fd9220741dd5b71d64772ae5",
+    "revision": "703154138fa9c4ab28fbc232a8bda9ce",
     "url": "/personal-website/index.html"
   },
   {
-    "revision": "2871dc5b15eecc4d0077",
+    "revision": "2d945f2b75dae23f5ba0",
     "url": "/personal-website/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "6f1ca6de424d0b379e48",
+    "revision": "12221e517d15311714fe",
     "url": "/personal-website/static/css/main.a9ec6b64.chunk.css"
   },
   {
-    "revision": "2871dc5b15eecc4d0077",
-    "url": "/personal-website/static/js/2.e50a9f04.chunk.js"
+    "revision": "2d945f2b75dae23f5ba0",
+    "url": "/personal-website/static/js/2.808dcc96.chunk.js"
   },
   {
     "revision": "2f71fbc01fec0c62d6e32185bc021541",
-    "url": "/personal-website/static/js/2.e50a9f04.chunk.js.LICENSE.txt"
+    "url": "/personal-website/static/js/2.808dcc96.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f1ca6de424d0b379e48",
-    "url": "/personal-website/static/js/main.fcbeafe9.chunk.js"
+    "revision": "12221e517d15311714fe",
+    "url": "/personal-website/static/js/main.5dce7b1a.chunk.js"
   },
   {
     "revision": "588d4a08d4237f2f354c",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "91f8aa1ac2db1d60577be85d93ba9edc",
     "url": "/personal-website/static/media/Resume.91f8aa1a.pdf"
+  },
+  {
+    "revision": "47dad2e4221bad5ad4df5747d267fd70",
+    "url": "/personal-website/static/media/WestChessTournament.47dad2e4.JPEG"
   },
   {
     "revision": "0346900880eb37fbcd38c4251522aad4",
