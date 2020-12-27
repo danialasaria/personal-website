@@ -9,6 +9,7 @@ import Red from "../../editable-stuff/red.jpg"
 import DanialPrize from "../../editable-stuff/DanialPrize.jpg"
 import Polgar from "../../editable-stuff/Polgar.jpg"
 import West from "../../editable-stuff/WestChessTournament.JPEG"
+import IM from "../../editable-stuff/IM.jpeg"
 
 
 const Leadership = () => {
@@ -131,6 +132,15 @@ const Leadership = () => {
                     alt="Nationals"
                     width="520"
                     height="390"
+                  /> 
+                  </Carousel.Item>
+                  <Carousel.Item>
+                  <img
+                    className="rounded"
+                    src={IM}
+                    alt="IM"
+                    width="450"
+                    height="400"
                   /> 
                   </Carousel.Item>
                 </Carousel>
