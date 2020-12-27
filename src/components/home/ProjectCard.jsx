@@ -65,11 +65,11 @@ const ProjectCard = ({ value }) => {
             <i className="fab fa-github" /> Repo
           </a>
           <hr />
-          <img className="rounded"
+          {/*<img className="rounded"
                     src={Omlet}
                     width="480"
                     height="250"
-                   />
+                            />*/}
           <Language value={languages_url}></Language>
           <p className="card-text">
             <span className="text-dark card-link mr-4">
