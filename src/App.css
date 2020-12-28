@@ -500,3 +500,14 @@
 .links {
   color: black;
 }
+
+.carousel-caption {
+    font-weight: 900;
+    top: -5px;
+    bottom: auto;
+}
+
+.move {
+  top: 20px;
+  bottom: auto;
+}

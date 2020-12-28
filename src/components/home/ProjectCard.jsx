@@ -69,7 +69,7 @@ const ProjectCard = ({ value }) => {
                     src={Omlet}
                     width="480"
                     height="250"
-                          />*/}
+                        />*/}
           <Language value={languages_url}></Language>
           <p className="card-text">
             <span className="text-dark card-link mr-4">

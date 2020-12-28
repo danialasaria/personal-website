@@ -1,16 +1,34 @@
 import React, { useState, useEffect, Profiler } from "react";
 import Carousel from 'react-bootstrap/Carousel'
-import Blue from "../../editable-stuff/trophy.jpg"
+import Nationals8 from "../../editable-stuff/8th Grade Nationals- 2015.JPG"
 import Handshake from "../../editable-stuff/handshake.jpg"
 import Nationals from "../../editable-stuff/Nationals.jpg"
-import Americanopen from "../../editable-stuff/americanopen.jpeg"
-import Gold from "../../editable-stuff/gold.jpg"
-import Red from "../../editable-stuff/red.jpg"
-import DanialPrize from "../../editable-stuff/DanialPrize.jpg"
+import Americanopen from "../../editable-stuff/AmericanOpen-2018.JPG"
+import JuniorHigh from "../../editable-stuff/Junior High K-8 - 2016.JPG"
+import IsmailiTeam from "../../editable-stuff/Ismaili Team - 2019.JPEG"
 import Polgar from "../../editable-stuff/Polgar.jpg"
-import West from "../../editable-stuff/WestChessTournament.JPEG"
+import IsmailiGames from "../../editable-stuff/Ismaili Games - 2019.jpg"
 import IM from "../../editable-stuff/IM.jpeg"
+import Mayor from "../../editable-stuff/mayor.JPG"
+import Superstates from "../../editable-stuff/SuperStates - 2019.JPG"
+import littlesuperstates from "../../editable-stuff/littlesuperstates.JPG"
+import littlenationals from "../../editable-stuff/littlenationals.JPG"
+import juniorchesscongress from "../../editable-stuff/juniorchesscongress.JPG"
+import elementarychampionship from "../../editable-stuff/Elementary Championship - 2011.jpg"
+import grade3nationals from "../../editable-stuff/3rd Grade National Championship - 2010 .jpg"
+import Anand from "../../editable-stuff/Danial Asaria vs World Champion - 2012.jpg"
+import nationals2013 from "../../editable-stuff/Super Nationals 2013.jpg"
+import WorldOpen from "../../editable-stuff/World Open (2014).jpg"
+import '../../App.css';
 
+const mystyle = {
+  color: "white",
+  fontFamily: "Arial",
+  top: "0px",
+  bottom: "auto",
+  marginTop: "100px",
+  
+};
 
 const Leadership = () => {
     return (
@@ -40,90 +58,167 @@ const Leadership = () => {
                 <div className="col d-lg-inline align-self-center">
                 
                 <Carousel>
-                    <Carousel.Item>
+                <Carousel.Item>
                 {/* <div className="col d-none d-lg-inline align-self-center"> */}
                   <img
                     className="rounded"
                     src={Handshake}
                     alt="Handshake"
                     width="520"
+                    height="410"
+                  /> 
+                  { <Carousel.Caption>
+                    <h4 className="move"> Southern California Scholastic Championship (2009) </h4>
+                    </Carousel.Caption> }
+                  </Carousel.Item>
+                <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={littlenationals}
+                    alt="littlenationals"
+                    width="520"
+                    height="430"
+                  /> 
+                  <Carousel.Caption>
+                    <h7 ><b>Southern California Amateur Team Championship (2010)</b></h7>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={grade3nationals}
+                    alt="3rd grade nationals"
+                    width="520"
+                    height="430"
+                  /> 
+                  <Carousel.Caption>
+                    <h7 ><b>Third Grade National Championship (2010)</b></h7>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={elementarychampionship}
+                    alt="elementary championship"
+                    width="520"
+                    height="430"
+                  /> 
+                  <Carousel.Caption>
+                    <h7 ><b> National Elementary Championship (2011)</b></h7>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={Anand}
+                    alt="elementary championship"
+                    width="520"
+                    height="430"
+                  /> 
+                  <Carousel.Caption>
+                    <h7 ><b> Match against World Champion Viswanathan Anand (11 years old) (2012)</b></h7>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={nationals2013}
+                    alt="2013 Supernationals"
+                    width="520"
+                    height="490"
+                  /> 
+                  <Carousel.Caption>
+                    <h7 ><b>Super Nationals (2013)</b></h7>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={littlesuperstates}
+                    alt="littlesuperstates"
+                    width="520"
                     height="390"
                   /> 
-                  {/* <Carousel.Caption>
-                    <h2>Student Engineering Council Vice President</h2>
-                    <h5>Cultivated an organizational culture of inclusivity, collaboration, and ambition.</h5>
-                    </Carousel.Caption> */}
+                  <Carousel.Caption>
+                    <h8 className="move">1st Place in State Championship (2014)</h8>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={juniorchesscongress}
+                    alt="juniorchesscongress"
+                    width="520"
+                    height="390"
+                  /> 
+                  <Carousel.Caption>
+                    <h8>1st Place in Chess Congress (2014)</h8>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={WorldOpen}
+                    alt="World Open 2014"
+                    width="520"
+                    height="430"
+                  /> 
+                  <Carousel.Caption>
+                    <h7 ><b>World Open (2014)</b></h7>
+                    </Carousel.Caption>
                   </Carousel.Item>
                 {/* </div>
                 </div>
                 <div className="row"> 
                 <div className="col d-none d-lg-inline align-self-center"> */}
-                <Carousel.Item>
+                {/*<Carousel.Item>
                 <img
                     className="rounded"
                     src={Gold}
                     alt="Gold"
                     width="520"
                     height="390"
-                  /> 
+                /> 
                   {/* <Carousel.Caption>
                 <h2>Student Engineering </h2>
                 <h5>Promoted student involvement in the community through volunteering and philanthropy.</h5>
-                </Carousel.Caption> */}
-                  </Carousel.Item>
+                </Carousel.Caption> 
+                  </Carousel.Item> */}
                 <Carousel.Item>
                 <img
                     className="rounded"
-                    src={Blue}
-                    alt="Blue"
+                    src={Nationals8}
+                    alt="Nationals8"
                     width="520"
                     height="390"
                   /> 
+                  <Carousel.Caption>
+                    <h8>8th Grade National Champion (2015)</h8>
+                    </Carousel.Caption>
                   </Carousel.Item>
                   <Carousel.Item>
                 <img
                     className="rounded"
-                    src={Red}
-                    alt="Red"
+                    src={JuniorHigh}
+                    alt="JuniorHigh"
                     width="520"
                     height="390"
                   /> 
+                  <Carousel.Caption>
+                    <h8>Junior High K-8 National Champion (2016)</h8>
+                    </Carousel.Caption>
                   </Carousel.Item>
                   <Carousel.Item>
                 <img
                     className="rounded"
-                    src={DanialPrize}
-                    alt="DanialPrize"
+                    src={Mayor}
+                    alt="IsmailiGames"
                     width="520"
                     height="390"
                   /> 
-                  </Carousel.Item>
-                  <Carousel.Item>
-                <img
-                    className="rounded"
-                    src={Polgar}
-                    alt="Polgar"
-                    width="520"
-                    height="390"
-                  /> 
-                  </Carousel.Item>
-                  <Carousel.Item>
-                <img
-                    className="rounded"
-                    src={West}
-                    alt="West"
-                    width="520"
-                    height="390"
-                  /> 
-                  </Carousel.Item>
-                  <Carousel.Item>
-                  <img
-                    className="rounded"
-                    src={Americanopen}
-                    alt="Americanopen"
-                    width="520"
-                    height="390"
-                  /> 
+                  <Carousel.Caption>
+                    <h8>Commendation from the Mayor of Los Angeles for achievement in chess and academics (2016)</h8>
+                    </Carousel.Caption>
                   </Carousel.Item>
                   <Carousel.Item>
                   <img
@@ -133,6 +228,69 @@ const Leadership = () => {
                     width="520"
                     height="390"
                   /> 
+                  <Carousel.Caption>
+                    <h8>Nationals First Board (2018)</h8>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                  <img
+                    className="rounded"
+                    src={Americanopen}
+                    alt="Americanopen"
+                    width="520"
+                    height="390"
+                  /> 
+                  <Carousel.Caption>
+                    <h8>Youngest Champion of the American Open (2018)</h8>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={Superstates}
+                    alt="Superstates"
+                    width="520"
+                    height="390"
+                  /> 
+                  <Carousel.Caption>
+                    <h8>State Championship Ceremonial First Move with Mayor (2019)</h8>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={IsmailiTeam}
+                    alt="IsmailiTeam"
+                    width="520"
+                    height="390"
+                  /> 
+                  <Carousel.Caption>
+                    <h8>Ismaili Muslim Volunteer Tournament (2019)</h8>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={IsmailiGames}
+                    alt="IsmailiGames"
+                    width="520"
+                    height="390"
+                  /> 
+                  <Carousel.Caption>
+                    <h8>1st Place in USA Ismaili Games (2019)</h8>
+                    </Carousel.Caption>
+                  </Carousel.Item>
+                  <Carousel.Item>
+                <img
+                    className="rounded"
+                    src={Polgar}
+                    alt="Polgar"
+                    width="520"
+                    height="390"
+                  /> 
+                  <Carousel.Caption>
+                    <h8>Susan Polgar Foundation National Open Champion (2019)</h8>
+                    </Carousel.Caption>
                   </Carousel.Item>
                   <Carousel.Item>
                   <img
@@ -142,6 +300,9 @@ const Leadership = () => {
                     width="450"
                     height="400"
                   /> 
+                  <Carousel.Caption>
+                    <h8>North American U-20 Champion - 2020 (International Master Title + Grandmaster Norm)</h8>
+                    </Carousel.Caption>
                   </Carousel.Item>
                 </Carousel>
               </div>
