@@ -41,7 +41,7 @@ const Interests = () => {
                 <p className="lead text-center" style={{fontSize:'28px'}}>Reading</p>
                 <img src="https://img.icons8.com/nolan/128/saving-book.png"/>
                 <p className="lead text-center">
-                  After quarantine began I thought with all the spare time stuck at home this would be a great opprtunity to rekindle my passion for reading. During highschool I was always frustrated because a couple of months after reading a book I always sensed my memory of even the most captivating story lines slowly fading away. 
+                  After quarantine began I thought with all the spare time stuck at home this would be a great opportunity to rekindle my passion for reading. During highschool I was always frustrated because a couple of months after reading a book I always sensed my memory of even the most captivating story lines slowly fading away. 
                   Since March I have begun my journey to combat the retention gods now always reading with a pen and sticky notes in hand mindful of detailing opinions, connections to previous literature, and vocab words I haven't encountered before. Check out what I've been reading on <a href="https://www.goodreads.com/user/show/68741765-danial" target="_blank">Goodreads</a>! One of my favorite quotes: "Reading a good book in silence is like eating chocolate for the rest of your life and never getting fat." -Becca Fitzpatrick
                 </p>
                 </div>
