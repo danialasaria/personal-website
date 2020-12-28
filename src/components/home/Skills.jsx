@@ -26,13 +26,13 @@ return (
                   <ProgressBar now={90} style={{width:'490px', backgroundColor:'white'}}/>
                   </p> */}
                   <p className="lead">JavaScript
-                  <ProgressBar now={87} style={{width:'490px', backgroundColor:'white'}}/>
+                  <ProgressBar now={77} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
                 <p className="lead">C#
                   <ProgressBar now={20} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
                   <p className="lead">C/C++
-                  <ProgressBar now={70} style={{width:'490px', backgroundColor:'white'}}/>
+                  <ProgressBar now={80} style={{width:'490px', backgroundColor:'white'}}/>
                   </p>
                   <p className="lead">Python
                   <ProgressBar now={35} style={{width:'490px', backgroundColor:'white'}}/>
