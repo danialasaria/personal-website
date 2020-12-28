@@ -15,18 +15,18 @@ return (
             <div className="row" style={divStyle}>
                 <div className="col text-center" >
                 <strong />
-<a href="https://www.smdp.com/local-beats-grandmaster-to-win-national-chess-tournament/193576" className="links">Local beats Grandmaster to Win National Chess Tournament [Santa Monica Daily Press- June 29, 2020]</a>
+<a href="https://www.smdp.com/local-beats-grandmaster-to-win-national-chess-tournament/193576" className="links">Local Beats Grandmaster to Win National Chess Tournament [Santa Monica Daily Press- June 29, 2020]</a>
 <br/><br/>
 <a href="https://new.uschess.org/news/danial-asaria-hs-senior-online-rapids?fbclid=IwAR1j8ip8fpeqMw8bajjEUwsHqp9HggiCnl1fkqCySAUP8oQDOKD7IukKKqQ" className="links">2020 High School Senior Champion [United States Chess Federation- June 22, 2020]</a>
 <br/><br/>
 <a href="https://www.askmen.com/career_money/self_improvement/how-learning-chess-can-improve-your-life-and-career.html" className="links">How Learning Chess Can Improve Your Life and Career
 Chess Pro Reveals How the Game Can Improve Your Focus, Problem-Solving, and More [AskMen-June 19, 2020]</a>
 <br/><br/>
-<a href="https://www.thesamohi.com/feature/a-look-at-the-interesting-extracurriculars-around-samo" className="links">A look at the interesting extracurriculars around Samo [SAMOHI Newspaper- November 30, 2019]</a>
+<a href="https://www.thesamohi.com/feature/a-look-at-the-interesting-extracurriculars-around-samo" className="links">A Look at the Interesting Extracurriculars around Santa Monica High School [SAMOHI Newspaper- November 30, 2019]</a>
 <br/><br/>
 <a href="http://www.scchess.com/rank_and_file_issues/F&F.2019-Spring-&-Summer.pdf#page=30" className="links">Winner of 2018 American Open (Youngest Champion in History) [Southern California Premier Chess Magazine- Spring 2019] </a>
 <br/><br/>
-<a href="https://www.smdp.com/local-student-wins-national-chess-title/155357?fbclid=IwAR2aa2mTogQU9Zpd3Vn7d4AnxRX4pqwFU4yEtlYP8IwzL---pHd3DH3-16c" className="links">Local student wins national chess title [Santa Monica Daily Press- May 20, 2016]</a>
+<a href="https://www.smdp.com/local-student-wins-national-chess-title/155357?fbclid=IwAR2aa2mTogQU9Zpd3Vn7d4AnxRX4pqwFU4yEtlYP8IwzL---pHd3DH3-16c" className="links">Local Student Wins National Chess Title [Santa Monica Daily Press- May 20, 2016]</a>
 <br/><br/>
 <a href="https://ismailimail.blog/2016/01/26/danial-asaria-lincoln-middle-school-student-wins-third-title-at-national-chess-championship/" className="links">Danial Asaria: Lincoln Middle School Student Wins Third Title at National Chess Championship [IsmailiMail- January 26, 2016] </a>
 <br/><br/>
@@ -34,15 +34,15 @@ Chess Pro Reveals How the Game Can Improve Your Focus, Problem-Solving, and More
 <br/><br/>
 <a href="http://www.chessdom.com/national-k-12-grade-championships-2015-grade-8/?fbclid=IwAR10LiKtWSjVEqPaoo9jLJrJAQkBnq7_XcAGgSZpA7jvFYsC5jHS52phRyg" className="links">National K-12 Grade Championships 2015 Grade 8 Champion [Chessdom- December 21, 2015]</a> 
 <br/>< br/>
-<a href="https://ismailimail.blog/2012/05/21/danial-asaria-won-co-championship-3rd-on-tiebreaks-and-scholarship-award-in-2012-national-elementary-k-6-chess-championship/?fbclid=IwAR0NOoxFZ53U81T_1F1ztRdhTQI2N0lEN_45_81zapjO--f1LrRJkb3yXDM/" className="links">Danial Asaria won Co-Championship and scholarship award in 2012 National Elementary (K-6) Chess Championship [IsmailiMail- May 21, 2012]</a>
+<a href="https://ismailimail.blog/2012/05/21/danial-asaria-won-co-championship-3rd-on-tiebreaks-and-scholarship-award-in-2012-national-elementary-k-6-chess-championship/?fbclid=IwAR0NOoxFZ53U81T_1F1ztRdhTQI2N0lEN_45_81zapjO--f1LrRJkb3yXDM/" className="links">Danial Asaria wins Co-Championship and Scholarship award in 2012 National Elementary (K-6) Chess Championship [IsmailiMail- May 21, 2012]</a>
 <br/><br/>
-<a href="https://ismailimail.blog/2011/03/24/danial-asaria-won-first-place-in-southern-california-super-states-2011-chess-championship/?fbclid=IwAR1ZgVKlzUjJCS_KAerx8jXFY2-r374OSy6GvMdqn_Hat6TSJgqntrf8d50/" className="links">Danial Asaria won First Place in Southern California Super States 2011 Chess Championship [IsmailiMail- March 24, 2011]</a>
+<a href="https://ismailimail.blog/2011/03/24/danial-asaria-won-first-place-in-southern-california-super-states-2011-chess-championship/?fbclid=IwAR1ZgVKlzUjJCS_KAerx8jXFY2-r374OSy6GvMdqn_Hat6TSJgqntrf8d50/" className="links">Danial Asaria wins First Place in Southern California Super States 2011 Chess Championship [IsmailiMail- March 24, 2011]</a>
 <br/><br/>
 <a href="https://ismailimail.blog/2010/12/18/danial-asaria-2nd-place-2010-national-championships-chess-tournament/?fbclid=IwAR0Vrlfg7amuA6Fm0A2sx9VxDeVd_em8B8dikav0hLS4WUjGRzQwgdBSUEo/" className="links">Danial Asaria: 2nd place 2010 National Championships Chess Tournament [IsmailiMail- December 18, 2010]</a>
 <br/><br/>
-<a href="https://ismailimail.blog/2011/03/24/danial-asaria-won-first-place-in-southern-california-super-states-2011-chess-championship/?fbclid=IwAR1ZgVKlzUjJCS_KAerx8jXFY2-r374OSy6GvMdqn_Hat6TSJgqntrf8d50/" className="links">Danial Asaria won First Place in Southern California Super States 2011 Chess Championship [IsmailiMail- March 24, 2011]</a>
+<a href="https://ismailimail.blog/2011/03/24/danial-asaria-won-first-place-in-southern-california-super-states-2011-chess-championship/?fbclid=IwAR1ZgVKlzUjJCS_KAerx8jXFY2-r374OSy6GvMdqn_Hat6TSJgqntrf8d50/" className="links">Danial Asaria wins First Place in Southern California Super States 2011 Chess Championship [IsmailiMail- March 24, 2011]</a>
 <br/><br/>
-<a href="https://the.ismaili/global/developing-childs-mind-through-the-game-chess" className="links">Developing a child’s mind through the game of chess [Ismaili Global- June 21, 2011]</a>
+<a href="https://the.ismaili/global/developing-childs-mind-through-the-game-chess" className="links">Developing a Child’s Mind Through the Game of Chess [Ismaili Global- June 21, 2011]</a>
 <br/><br/>
 <a href="https://www.latimes.com/archives/la-xpm-2010-sep-12-la-ca-0912-chess-20100912-story.html" className="links">U-1400 First Prize [Los Angeles Times- September 12, 2010]</a>
                     {/*<img
