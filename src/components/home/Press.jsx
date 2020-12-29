@@ -4,9 +4,9 @@ const divStyle = {
     flexDirection: 'row',
     alignItems: 'center'
   };
-const Experience = () => {
+const Press = () => {
 return (
-    <div id="experience" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'white'}}>
+    <div id="press" className="jumbotron jumbotron-fluid m-0" style={{backgroundColor:'white'}}>
       <div className="container container-fluid">
         <div className="row">
             <div className="col d-lg-inline align-self-center">
@@ -86,4 +86,4 @@ Chess Pro Reveals How the Game Can Improve Your Focus, Problem-Solving, and More
   );
 };
 
-export default Experience;
+export default Press;

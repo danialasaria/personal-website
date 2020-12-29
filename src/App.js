@@ -15,7 +15,7 @@ import Navbar from "./components/Navbar";
 import { Blog } from "./components/blog/Blog";
 import BlogPost from "./components/blog/BlogPost";
 import Leadership from "./components/home/Leadership";
-import Experience from "./components/home/Experience";
+import Press from "./components/home/Press";
 import Interests from "./components/home/Interests";
 import Skills from "./components/home/Skills";
 
@@ -28,7 +28,7 @@ const Home = () => {
       <Leadership />
       <Skills />
       <Interests />
-      <Experience />
+      <Press /> {/*this used to be the experience section */}
     </Fragment>
   );
 };
